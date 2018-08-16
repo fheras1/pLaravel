@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-image: #fff;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -79,15 +79,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Alonso
+                    Alonso left F1
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.autosport.com/f1/news/138030/the-fallout-from-alonso-f1-bombshell">Autosport</a>
+                    <a href="https://www.autobild.es/noticias/fernando-alonso-retira-f1-final-temporada-290111">Autobild</a>
+                    <a href="https://www.formula1.com/en/latest/headlines/2018/8/breaking--alonso-to-step-away-from-f1-at-end-of-2018.html">F1</a>
+                    <a href="https://as.com/motor/2018/08/14/formula_1/1534232493_605617.html">AS</a>
+                    <a href="http://www.marca.com/motor/formula1/2018/08/15/5b74677846163fbf078b4600.html">MARCA</a>
                 </div>
             </div>
         </div>
