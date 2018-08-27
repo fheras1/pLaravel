@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/hola-mundo', function () {
+    return 'Hola Mundo! Bienvenido a Laravel';
+});
